@@ -1,6 +1,3 @@
-
-
-```markdown
 # OpenAI Image Recognition Chat
 
 This Streamlit app allows you to interact with OpenAI's GPT-4 Vision model to recognize the content of an image. You can upload an image, and the app will use the OpenAI API to generate a description of the image.
