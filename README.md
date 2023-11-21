@@ -39,9 +39,4 @@ This will start a local development server, and you can access the app in your w
 - This app uses Streamlit for the web interface.
 - Powered by OpenAI's GPT-4 Vision model.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace the placeholder in the `requirements.txt` file with the correct version numbers if needed. Additionally, if you want to include a license file (e.g., `LICENSE`), you can customize the license section accordingly.
